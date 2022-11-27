@@ -1,2 +1,6 @@
 # RealisticSurvival-Resource-Pack
-This repository is home to Realistic Survival's resource pack. If you are knowledgeable at creating texture packs, please consider contributing to this repository, it would be much appreciated &lt;3
+This Repository houses Realistic Survival's resource pack.<br>
+
+## Want to contribute?
+We have written a detailed guide on how to contribute to the resource pack:
+https://github.com/ValMobile/RealisticSurvival/wiki/Expanding-the-Resource-Pack
