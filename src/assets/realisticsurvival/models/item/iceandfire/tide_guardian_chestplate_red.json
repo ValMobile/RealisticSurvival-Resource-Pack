@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "realisticsurvival:item/iceandfire/tide_guardian_chestplate_red"
+  }
+}

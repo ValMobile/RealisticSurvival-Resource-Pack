@@ -1,0 +1,11 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "minecraft:item/netherite_leggings"
+	},
+	"overrides": [
+		{"predicate": {"custom_model_data":83650}, "model": "realisticsurvival:item/iceandfire/dragonsteel_fire_leggings"},
+		{"predicate": {"custom_model_data":83651}, "model": "realisticsurvival:item/iceandfire/dragonsteel_ice_leggings"},
+		{"predicate": {"custom_model_data":83652}, "model": "realisticsurvival:item/iceandfire/dragonsteel_lightning_leggings"}
+	]
+}

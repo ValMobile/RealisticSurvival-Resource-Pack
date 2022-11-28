@@ -1,0 +1,6 @@
+{
+    "parent":"realisticsurvival:item/spartanweaponry/shield_basic_base_blocking",
+    "textures": {
+        "layer0":"realisticsurvival:item/spartanweaponry/shield_basic_stone"
+    }
+}

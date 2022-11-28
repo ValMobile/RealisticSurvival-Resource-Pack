@@ -1,0 +1,15 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_axe"
+  },
+  "overrides": [
+
+    	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/spartanweaponry/stone_battleaxe" },
+    	{ "predicate": { "custom_model_data": 83651 }, "model": "realisticsurvival:item/spartanweaponry/copper_battleaxe" },
+		{ "predicate": { "custom_model_data": 83652 }, "model": "realisticsurvival:item/notreepunching/copper_saw" },
+		{ "predicate": { "custom_model_data": 83653 }, "model": "realisticsurvival:item/notreepunching/copper_axe" },
+		{ "predicate": { "custom_model_data": 93650 }, "model": "realisticsurvival:item/notreepunching/copper_mattock" }
+
+    ]
+}

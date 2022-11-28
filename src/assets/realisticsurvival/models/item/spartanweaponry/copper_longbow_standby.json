@@ -1,0 +1,6 @@
+{"textures": {"layer0": "realisticsurvival:item/spartanweaponry/copper_longbow_standby"}, "overrides": [
+{"predicate": {"pulling": 1}, "model": "realisticsurvival:item/spartanweaponry/copper_longbow_pulling_0"}, 
+{"predicate": {"pull": 0.65, "pulling": 1}, "model": "realisticsurvival:item/spartanweaponry/copper_longbow_pulling_1"}, 
+{"predicate": {"pull": 0.9, "pulling": 1}, "model": "realisticsurvival:item/spartanweaponry/copper_longbow_pulling_2"}
+], 
+"parent": "realisticsurvival:item/spartanweaponry/wooden_longbow_standby"}

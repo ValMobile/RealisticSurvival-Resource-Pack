@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "realisticsurvival:item/iceandfire/sea_serpent_arrow_tipped_base",
+	"layer1": "realisticsurvival:item/iceandfire/arrow_tipped_head"
+  }
+}

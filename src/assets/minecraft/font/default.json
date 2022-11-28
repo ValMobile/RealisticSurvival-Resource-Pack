@@ -1,0 +1,312 @@
+{
+    "providers": [
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/freezing.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE779"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/burning.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE782"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/normal.png",
+		"ascent": -10,
+		"height": 16,
+		"chars": ["\uE783"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/fulldrop.png",
+		"ascent": -16,
+		"height": 9,
+		"chars": ["\uE784"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/burning.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE785"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/freezing.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE786"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/burningview.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE787"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/freezingview.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE788"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/blankspace.png",
+		"ascent": 16,
+		"height": 16,
+		"chars": ["\uE789"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/halfdrop.png",
+		"ascent": -16,
+		"height": 9,
+		"chars": ["\uE790"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/emptydrop.png",
+		"ascent": -16,
+		"height": 9,
+		"chars": ["\uE791"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/parasites_fulldrop.png",
+		"ascent": -16,
+		"height": 9,
+		"chars": ["\uE792"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/parasites_halfdrop.png",
+		"ascent": -16,
+		"height": 9,
+		"chars": ["\uE793"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/parasites_fulldrop.png",
+		"ascent": -6,
+		"height": 9,
+		"chars": ["\uE794"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/parasites_halfdrop.png",
+		"ascent": -6,
+		"height": 9,
+		"chars": ["\uE795"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/6.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE806"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/7.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE807"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/8.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE808"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/9.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE809"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/10.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE810"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/11.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE811"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/12.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE812"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/13.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE813"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/14.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE814"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/15.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE815"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/16.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE816"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/17.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE817"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/18.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE818"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/19.png",
+		"ascent": -12,
+		"height": 16,
+		"chars": ["\uE819"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/fire_vignette1.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE821"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/fire_vignette2.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE822"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/fire_vignette3.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE823"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/fire_vignette4.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE824"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/fire_vignette5.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE825"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/halfdrop.png",
+		"ascent": -6,
+		"height": 9,
+		"chars": ["\uE826"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/emptydrop.png",
+		"ascent": -6,
+		"height": 9,
+		"chars": ["\uE827"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/fulldrop.png",
+		"ascent": -6,
+		"height": 9,
+		"chars": ["\uE828"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/blankspace2.png",
+		"ascent": -200,
+		"height": 1,
+		"chars": ["\uE829"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/youtube.png",
+		"ascent": 9,
+		"height": 12,
+		"chars": ["\uE830"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/ice_vignette1.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE831"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/ice_vignette2.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE832"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/ice_vignette3.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE833"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/ice_vignette4.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE834"]
+	},
+	{
+		"type": "bitmap",
+		"file": "realisticsurvival:actionbar/toughasnails/ice_vignette5.png",
+		"ascent": 150,
+		"height": 300,
+		"chars": ["\uE835"]
+	}
+    ]
+}

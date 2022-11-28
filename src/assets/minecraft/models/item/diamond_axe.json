@@ -1,0 +1,19 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_axe"
+  },
+  "overrides": [
+
+    	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/iceandfire/dragonbone_axe" },
+	{ "predicate": { "custom_model_data": 83651 }, "model": "realisticsurvival:item/spartanandfire/dragonbone_battleaxe" },
+	{ "predicate": { "custom_model_data": 83652 }, "model": "realisticsurvival:item/spartanandfire/dragonbone_flamed_battleaxe" },
+	{ "predicate": { "custom_model_data": 83653 }, "model": "realisticsurvival:item/spartanandfire/dragonbone_iced_battleaxe" },
+	{ "predicate": { "custom_model_data": 83654 }, "model": "realisticsurvival:item/spartanandfire/dragonbone_lightning_battleaxe" },
+	{ "predicate": { "custom_model_data": 83655 }, "model": "realisticsurvival:item/spartanweaponry/diamond_battleaxe" },
+	{ "predicate": { "custom_model_data": 83656 }, "model": "realisticsurvival:item/notreepunching/diamond_saw" },
+	
+	{ "predicate": { "custom_model_data": 93650 }, "model": "realisticsurvival:item/notreepunching/diamond_mattock" }
+
+    ]
+}

@@ -1,0 +1,1452 @@
+{
+  "knapping": {
+	"category": "block",
+	"subtitle": "notreepunching.subtitle.knapping",
+	"sounds": [
+	  "realisticsurvival:notreepunching/knapping/1",
+	  "realisticsurvival:notreepunching/knapping/2",
+	  "realisticsurvival:notreepunching/knapping/3",
+	  "realisticsurvival:notreepunching/knapping/4"
+	]
+  },
+  "lightningdragon_breath_crackle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/breath_crackle"
+	]
+  },
+  "lightningdragon_breath": {
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_breath",
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/breath"
+	]
+  },
+  "lightningdragon_adult_roar": {
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_roar",
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/adult_roar_0",
+		"realisticsurvival:iceandfire/dragon/lightning/adult_roar_1",
+		"realisticsurvival:iceandfire/dragon/lightning/adult_roar_2"
+	]
+  },
+  "lightningdragon_teen_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/teen_roar_0",
+		"realisticsurvival:iceandfire/dragon/lightning/teen_roar_1",
+		"realisticsurvival:iceandfire/dragon/lightning/teen_roar_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_roar"
+  },
+  "lightningdragon_child_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/child_die_0"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_roar"
+  },
+  "lightningdragon_child_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/child_idle_0",
+		"realisticsurvival:iceandfire/dragon/lightning/child_idle_1",
+		"realisticsurvival:iceandfire/dragon/lightning/child_idle_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_idle"
+  },
+  "lightningdragon_child_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/child_hurt_0",
+		"realisticsurvival:iceandfire/dragon/lightning/child_hurt_1",
+		"realisticsurvival:iceandfire/dragon/lightning/child_hurt_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_hurt"
+  },
+  "lightningdragon_child_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/child_die_0"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_death"
+  },
+  "lightningdragon_teen_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/teen_idle_0",
+		"realisticsurvival:iceandfire/dragon/lightning/teen_idle_1",
+		"realisticsurvival:iceandfire/dragon/lightning/teen_idle_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_idle"
+  },
+  "lightningdragon_teen_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/teen_hurt_0",
+		"realisticsurvival:iceandfire/dragon/lightning/teen_hurt_1",
+		"realisticsurvival:iceandfire/dragon/lightning/teen_hurt_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_hurt"
+  },
+  "lightningdragon_teen_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/teen_die_0"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_death"
+  },
+  "lightningdragon_adult_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/adult_idle_0",
+		"realisticsurvival:iceandfire/dragon/lightning/adult_idle_1",
+		"realisticsurvival:iceandfire/dragon/lightning/adult_idle_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_idle"
+  },
+  "lightningdragon_adult_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/adult_hurt_0",
+		"realisticsurvival:iceandfire/dragon/lightning/adult_hurt_1",
+		"realisticsurvival:iceandfire/dragon/lightning/adult_hurt_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_hurt"
+  },
+  "lightningdragon_adult_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/lightning/adult_die_0"
+	],
+	"subtitle": "iceandfire.sound.subtitle.lightningdragon_death"
+  },
+  "sea_serpent_breath": {
+	"sounds": [
+		"realisticsurvival:iceandfire/sea_serpent/breath"
+	],
+	"subtitle": "iceandfire.sound.subtitle.sea_serpent_breath"
+  },
+  "sea_serpent_bite": {
+	"sounds": [
+		"realisticsurvival:iceandfire/sea_serpent/bite"
+	],
+	"subtitle": "iceandfire.sound.subtitle.sea_serpent_bite"
+  },
+  "sea_serpent_splash": {
+	"sounds": [
+		"realisticsurvival:iceandfire/sea_serpent/splash"
+	]
+  },
+  "sea_serpent_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/sea_serpent/roar"
+	],
+	"subtitle": "iceandfire.sound.subtitle.sea_serpent_roar"
+  },
+  "sea_serpent_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/sea_serpent/idle_0",
+		"realisticsurvival:iceandfire/sea_serpent/idle_1"
+	],
+	"subtitle": "iceandfire.sound.subtitle.sea_serpent_idle"
+  },
+  "sea_serpent_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/sea_serpent/hurt_0",
+		"realisticsurvival:iceandfire/sea_serpent/hurt_1",
+		"realisticsurvival:iceandfire/sea_serpent/hurt_2"
+	],
+	"subtitle": "iceandfire.sound.subtitle.sea_serpent_hurt"
+  },
+  "sea_serpent_die": {
+	"sounds": [
+		"realisticsurvival:iceandfire/sea_serpent/die"
+	],
+	"subtitle": "Sea serpent dies"
+  },
+  "dragon_flight": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/flight_0",
+		"realisticsurvival:iceandfire/dragon/flight_1",
+		"realisticsurvival:iceandfire/dragon/flight_2",
+		"realisticsurvival:iceandfire/dragon/flight_3"
+	],
+	"subtitle": "Dragon flies"
+  },
+  "firedragon_breath": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/breath"
+	],
+	"subtitle": "Fire dragon breathes"
+  },
+  "firedragon_child_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/child_idle_0",
+		"realisticsurvival:iceandfire/dragon/fire/child_idle_1",
+		"realisticsurvival:iceandfire/dragon/fire/child_idle_2"
+	],
+	"subtitle": "Young fire dragon idles"
+  },
+  "firedragon_child_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/child_hurt_0",
+		"realisticsurvival:iceandfire/dragon/fire/child_hurt_1"
+	],
+	"subtitle": "Young fire dragon takes damage"
+  },
+  "firedragon_child_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/child_die_0"
+	],
+	"subtitle": "Young fire dragon dies"
+  },
+  "firedragon_child_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/child_die_0"
+	],
+	"subtitle": "Young fire dragon roars"
+  },
+  "firedragon_teen_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/teen_idle_0",
+		"realisticsurvival:iceandfire/dragon/fire/teen_idle_1",
+		"realisticsurvival:iceandfire/dragon/fire/teen_idle_2",
+		"realisticsurvival:iceandfire/dragon/fire/teen_idle_3",
+		"realisticsurvival:iceandfire/dragon/fire/teen_idle_4",
+		"realisticsurvival:iceandfire/dragon/fire/teen_idle_5"
+	],
+	"subtitle": "Teen fire dragon idles"
+  },
+  "firedragon_teen_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/teen_hurt_0",
+		"realisticsurvival:iceandfire/dragon/fire/teen_hurt_1"
+	],
+	"subtitle": "Teen fire dragon takes damage"
+  },
+  "firedragon_teen_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/teen_die_0"
+	],
+	"subtitle": "Teen fire dragon dies"
+  },
+  "firedragon_teen_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/teen_roar_0",
+		"realisticsurvival:iceandfire/dragon/fire/teen_roar_1"
+	],
+	"subtitle": "Teen fire dragon roars"
+  },
+  "firedragon_adult_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/adult_idle_0",
+		"realisticsurvival:iceandfire/dragon/fire/adult_idle_1",
+		"realisticsurvival:iceandfire/dragon/fire/adult_idle_2",
+		"realisticsurvival:iceandfire/dragon/fire/adult_idle_3"
+	],
+	"subtitle": "Adult fire dragon idles"
+  },
+  "firedragon_adult_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/adult_hurt_0",
+		"realisticsurvival:iceandfire/dragon/fire/adult_hurt_1",
+		"realisticsurvival:iceandfire/dragon/fire/adult_hurt_2"
+	],
+	"subtitle": "Adult fire dragon takes damage"
+  },
+  "firedragon_adult_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/adult_hurt_0",
+		"realisticsurvival:iceandfire/dragon/fire/adult_hurt_1",
+		"realisticsurvival:iceandfire/dragon/fire/adult_hurt_2"
+	],
+	"subtitle": "Adult fire dragon dies"
+  },
+  "firedragon_adult_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/fire/adult_roar_0",
+		"realisticsurvival:iceandfire/dragon/fire/adult_roar_1"
+	],
+	"subtitle": "Adult fire dragon roars"
+  },
+  "icedragon_adult_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/adult_roar_0",
+		"realisticsurvival:iceandfire/dragon/ice/adult_roar_1"
+	],
+	"subtitle": "Adult ice dragon roars"
+  },
+  "icedragon_breath": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/breath"
+	],
+	"subtitle": "Ice dragon breathes"
+  },
+  "icedragon_teen_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/teen_roar_0",
+		"realisticsurvival:iceandfire/dragon/ice/teen_roar_1"
+	],
+	"subtitle": "Teen ice dragon roars"
+  },
+  "icedragon_child_roar": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/child_die_0"
+	],
+	"subtitle": "Young ice dragon roars"
+  },
+  "icedragon_child_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/child_idle_0",
+		"realisticsurvival:iceandfire/dragon/ice/child_idle_1",
+		"realisticsurvival:iceandfire/dragon/ice/child_idle_2"
+	],
+	"subtitle": "Young ice dragon idles"
+  },
+  "icedragon_child_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_0",
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_1",
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_2",
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_3"
+	],
+	"subtitle": "Young ice dragon takes damage"
+  },
+  "icedragon_child_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_0",
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_1",
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_2",
+		"realisticsurvival:iceandfire/dragon/ice/child_hurt_3"
+	],
+	"subtitle": "Young ice dragon dies"
+  },
+  "icedragon_teen_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/teen_idle_0",
+		"realisticsurvival:iceandfire/dragon/ice/teen_idle_1",
+		"realisticsurvival:iceandfire/dragon/ice/teen_idle_2",
+		"realisticsurvival:iceandfire/dragon/ice/teen_idle_3"
+	],
+	"subtitle": "Teen ice dragon idles"
+  },
+  "icedragon_teen_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/teen_hurt_0",
+		"realisticsurvival:iceandfire/dragon/ice/teen_hurt_1",
+		"realisticsurvival:iceandfire/dragon/ice/teen_hurt_2"
+	],
+	"subtitle": "Teen ice dragon takes damage"
+  },
+  "icedragon_teen_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/teen_die_0",
+		"realisticsurvival:iceandfire/dragon/ice/teen_die_1"
+	],
+	"subtitle": "Teen ice dragon idles"
+  },
+  "icedragon_adult_idle": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/adult_idle_0",
+		"realisticsurvival:iceandfire/dragon/ice/adult_idle_1",
+		"realisticsurvival:iceandfire/dragon/ice/adult_idle_2"
+	],
+	"subtitle": "Adult ice dragon idles"
+  },
+  "icedragon_adult_hurt": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/adult_hurt_0",
+		"realisticsurvival:iceandfire/dragon/ice/adult_hurt_1",
+		"realisticsurvival:iceandfire/dragon/ice/adult_hurt_2"
+	],
+	"subtitle": "Adult ice dragon takes damage"
+  },
+  "icedragon_adult_death": {
+	"sounds": [
+		"realisticsurvival:iceandfire/dragon/ice/adult_die_0",
+		"realisticsurvival:iceandfire/dragon/ice/adult_die_1"
+	],
+	"subtitle": "Adult ice dragon dies"
+  },
+  "armor.light_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/light_1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/light_2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/light_3"
+	]
+  },
+  "armor.light_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/light_1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/light_2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/light_3"
+	]
+  },
+  "armor.medium_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk3"
+	]
+  },
+  "armor.medium_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk3"
+	]
+  },
+  "armor.medium_foot": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/medium_walk3"
+	]
+  },
+  "armor.crystal_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_walk6"
+	]
+  },
+  "armor.crystal_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_run6"
+	]
+  },
+  "armor.crystal_foot": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_foot1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_foot2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_foot3",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/crystal_foot4"
+	]
+  },
+  "armor.heavy_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_walk6"
+	]
+  },
+  "armor.heavy_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_run9"
+	]
+  },
+  "armor.heavy_foot": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_foot1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_foot2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/heavy_foot3"
+	]
+  },
+  "armor.slimey_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_walk6"
+	]
+  },
+  "armor.slimey_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/armor/slime_run6"
+	]
+  },
+  "bluntwood.bluntwood_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_walk9"
+	]
+  },
+  "bluntwood.bluntwood_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/bluntwood/bluntwood_wander5"
+	]
+  },
+  "brush.brush_through": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through1",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through10",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through11",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through2",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through3",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through4",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through5",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through6",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through7",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through8",
+		"realisticsurvival:dynamicsurroundings/footsteps/brush/brush_through9"
+	]
+  },
+  "concrete.concrete_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_run9"
+	]
+  },
+  "concrete.concrete_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_walk9"
+	]
+  },
+  "concrete.concrete_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/concrete/concrete_wander5"
+	]
+  },
+  "deckwood.deckwood_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/deckwood/deckwood_run9"
+	]
+  },
+  "dirt.dirt_land": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_land1",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_land2",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_land3",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_land4"
+	]
+  },
+  "dirt.dirt_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_run9"
+	]
+  },
+  "dirt.dirt_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_walk9"
+	]
+  },
+  "dirt.dirt_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/dirt/dirt_wander5"
+	]
+  },
+  "glass.glass_hard": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/glass/glass_hard1"
+	]
+  },
+  "glass.glass_hit": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/glass/glass_hit1",
+		"realisticsurvival:dynamicsurroundings/footsteps/glass/glass_hit2"
+	]
+  },
+  "grass.grass_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_run4"
+	]
+  },
+  "grass.grass_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_walk9"
+	]
+  },
+  "grass.grass_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_wander5",
+		"realisticsurvival:dynamicsurroundings/footsteps/grass/grass_wander6"
+	]
+  },
+  "gravel.gravel_land": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_land1",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_land2"
+	]
+  },
+  "gravel.gravel_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_run9"
+	]
+  },
+  "gravel.gravel_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_walk9"
+	]
+  },
+  "gravel.gravel_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/gravel/gravel_wander3"
+	]
+  },
+  "leaves.leaves_through": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/leaves/leaves_through1",
+		"realisticsurvival:dynamicsurroundings/footsteps/leaves/leaves_through2",
+		"realisticsurvival:dynamicsurroundings/footsteps/leaves/leaves_through3",
+		"realisticsurvival:dynamicsurroundings/footsteps/leaves/leaves_through4",
+		"realisticsurvival:dynamicsurroundings/footsteps/leaves/leaves_through5",
+		"realisticsurvival:dynamicsurroundings/footsteps/leaves/leaves_through6",
+		"realisticsurvival:dynamicsurroundings/footsteps/leaves/leaves_through7"
+	]
+  },
+  "lino.lino_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_run6"
+	]
+  },
+  "lino.lino_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/lino/lino_walk8"
+	]
+  },
+  "marble.marble_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_run9"
+	]
+  },
+  "marble.marble_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_walk9"
+	]
+  },
+  "marble.marble_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_wander5",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_wander6",
+		"realisticsurvival:dynamicsurroundings/footsteps/marble/marble_wander7"
+	]
+  },
+  "metalbar.metalbar_land": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_land1"
+	]
+  },
+  "metalbar.metalbar_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_run9"
+	]
+  },
+  "metalbar.metalbar_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_walk9"
+	]
+  },
+  "metalbar.metalbar_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_wander5",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbar/metalbar_wander6"
+	]
+  },
+  "metalbox.metalbox_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_run9"
+	]
+  },
+  "metalbox.metalbox_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_walk9"
+	]
+  },
+  "metalbox.metalbox_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/metalbox/metalbox_wander4"
+	]
+  },
+  "mud.mud_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_walk6"
+	]
+  },
+  "mud.mud_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/mud/mud_wander4"
+	]
+  },
+  "muffledice.muffledice_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/muffledice/muffledice_walk9"
+	]
+  },
+  "quicksand.quicksand_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/quicksand/quicksand_walk9"
+	]
+  },
+  "rug.rug_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/rug/rug_walk9"
+	]
+  },
+  "sand.sand_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_run9"
+	]
+  },
+  "sand.sand_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/sand/sand_walk9"
+	]
+  },
+  "snow.snow_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_run9"
+	]
+  },
+  "snow.snow_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_walk9"
+	]
+  },
+  "snow.snow_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/snow/snow_wander5"
+	]
+  },
+  "squeakywood.squeakywood_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_walk9"
+	]
+  },
+  "squeakywood.squeakywood_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_wander5",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_wander6",
+		"realisticsurvival:dynamicsurroundings/footsteps/squeakywood/squeakywood_wander7"
+	]
+  },
+  "stone.stone_run": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run1",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run10",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run11",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run2",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run3",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run4",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run5",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run6",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run7",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run8",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_run9"
+	]
+  },
+  "stone.stone_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_walk9"
+	]
+  },
+  "stone.stone_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/stone/stone_wander5"
+	]
+  },
+  "water.water_through": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through1",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through10",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through11",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through2",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through3",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through4",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through5",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through6",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through7",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through8",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_through9"
+	]
+  },
+  "water.water_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/water/water_wander5"
+	]
+  },
+  "water_stereofix.water_through": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through1",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through10",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through11",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through2",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through3",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through4",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through5",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through6",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through7",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through8",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_through9"
+	]
+  },
+  "water_stereofix.water_wander": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_wander1",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_wander2",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_wander3",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_wander4",
+		"realisticsurvival:dynamicsurroundings/footsteps/water_stereofix/water_wander5"
+	]
+  },
+  "weakice.weakice_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/weakice/weakice_walk9"
+	]
+  },
+  "wood.wood_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/wood_walk9"
+	]
+  },
+  "wood.log_walk": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk1",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk10",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk11",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk2",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk3",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk4",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk5",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk6",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk7",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk8",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/log_walk9"
+	]
+  },
+  "floorsqueak": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/floorsqueak1",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/floorsqueak2",
+		"realisticsurvival:dynamicsurroundings/footsteps/wood/floorsqueak3"
+	]
+  },
+  "pageflip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/pageflip1",
+		"realisticsurvival:dynamicsurroundings/items/pageflip2",
+		"realisticsurvival:dynamicsurroundings/items/pageflip3"
+	]
+  },
+  "blunt.equip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/blunt_draw"
+	]
+  },
+  "blunt.swing": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/blunt_swing1",
+		"realisticsurvival:dynamicsurroundings/items/blunt_swing2",
+		"realisticsurvival:dynamicsurroundings/items/blunt_swing3",
+		"realisticsurvival:dynamicsurroundings/items/blunt_swing4",
+		"realisticsurvival:dynamicsurroundings/items/blunt_swing5"
+	]
+  },
+  "bow.equip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/bow_draw"
+	]
+  },
+  "bow.pull": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/bow_pull1",
+		"realisticsurvival:dynamicsurroundings/items/bow_pull2",
+		"realisticsurvival:dynamicsurroundings/items/bow_pull3",
+		"realisticsurvival:dynamicsurroundings/items/bow_pull4",
+		"realisticsurvival:dynamicsurroundings/items/bow_pull5"
+	]
+  },
+  "bow.loose": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/bow_loose1",
+		"realisticsurvival:dynamicsurroundings/items/bow_loose2",
+		"realisticsurvival:dynamicsurroundings/items/bow_loose3",
+		"realisticsurvival:dynamicsurroundings/items/bow_loose4"
+	]
+  },
+  "sword.equip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/sword_draw"
+	]
+  },
+  "sword.swing": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/sword_swing1",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing2",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing3",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing4",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing5",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing6",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing7",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing8",
+		"realisticsurvival:dynamicsurroundings/items/sword_swing9"
+	]
+  },
+  "tool.equip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/tool_draw"
+	]
+  },
+  "tool.swing": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/swoosh1",
+		"realisticsurvival:dynamicsurroundings/items/swoosh2",
+		"realisticsurvival:dynamicsurroundings/items/swoosh3",
+		"realisticsurvival:dynamicsurroundings/items/swoosh4",
+		"realisticsurvival:dynamicsurroundings/items/swoosh5",
+		"realisticsurvival:dynamicsurroundings/items/swoosh6",
+		"realisticsurvival:dynamicsurroundings/items/swoosh7"
+	]
+  },
+  "utility.equip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/utility_draw"
+	]
+  },
+  "shield.equip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/tool_draw"
+	]
+  },
+  "shield.use": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/tool_draw"
+	]
+  },
+  "potion.equip": {
+	"sounds": [
+		"realisticsurvival:dynamicsurroundings/items/potion_slosh1",
+		"realisticsurvival:dynamicsurroundings/items/potion_slosh2",
+		"realisticsurvival:dynamicsurroundings/items/potion_slosh3",
+		"realisticsurvival:dynamicsurroundings/items/potion_slosh4"
+	]
+  },
+  "dagger_throw": {
+	"subtitle": "subtitle.spartanweaponry.dagger_throw",
+	"sounds": [
+		"minecraft:item/trident/throw1",
+		"minecraft:item/trident/throw2"
+	]
+  },
+  "dagger_hit_mob": {
+	"subtitle": "subtitle.spartanweaponry.dagger_hit_mob",
+	"sounds": [ 
+		"minecraft:item/trident/pierce1",
+		"minecraft:item/trident/pierce2",
+		"minecraft:item/trident/pierce3" 
+	]
+  },
+  "dagger_hit_ground": {
+	"subtitle": "subtitle.spartanweaponry.dagger_hit_ground",
+	"sounds": [ 
+		{
+			"name": "minecraft:item/trident/ground_impact1",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact2",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact3",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact4",
+			"volume": 0.9
+		}
+	]
+  },
+  "throwing_knife_throw": {
+	"subtitle": "subtitle.spartanweaponry.throwing_knife_throw",
+	"sounds": [
+		"minecraft:item/trident/throw1",
+		"minecraft:item/trident/throw2"
+	]
+  },
+  "throwing_knife_hit_mob": {
+	"subtitle": "subtitle.spartanweaponry.throwing_knife_hit_mob",
+	"sounds": [ 
+		"minecraft:item/trident/pierce1",
+		"minecraft:item/trident/pierce2",
+		"minecraft:item/trident/pierce3" 
+	]
+  },
+  "throwing_knife_hit_ground": {
+	"subtitle": "subtitle.spartanweaponry.throwing_knife_hit_ground",
+	"sounds": [ 
+		{
+			"name": "minecraft:item/trident/ground_impact1",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact2",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact3",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact4",
+			"volume": 0.9
+		}
+	]
+  },
+  "tomahawk_throw": {
+	"subtitle": "subtitle.spartanweaponry.tomahawk_throw",
+	"sounds": [
+		"minecraft:item/trident/throw1",
+		"minecraft:item/trident/throw2"
+	]
+  },
+  "tomahawk_hit_mob": {
+	"subtitle": "subtitle.spartanweaponry.tomahawk_hit_mob",
+	"sounds": [ 
+		"minecraft:item/trident/pierce1",
+		"minecraft:item/trident/pierce2",
+		"minecraft:item/trident/pierce3" 
+	]
+  },
+  "tomahawk_hit_ground": {
+	"subtitle": "subtitle.spartanweaponry.tomahawk_hit_ground",
+	"sounds": [ 
+		{
+			"name": "minecraft:item/trident/ground_impact1",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact2",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact3",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact4",
+			"volume": 0.9
+		}
+	]
+  },
+  "javelin_throw": {
+	"subtitle": "subtitle.spartanweaponry.javelin_throw",
+	"sounds": [
+		"minecraft:item/trident/throw1",
+		"minecraft:item/trident/throw2"
+	]
+  },
+  "javelin_hit_mob": {
+	"subtitle": "subtitle.spartanweaponry.javelin_hit_mob",
+	"sounds": [ 
+		"minecraft:item/trident/pierce1",
+		"minecraft:item/trident/pierce2",
+		"minecraft:item/trident/pierce3" 
+	]
+  },
+  "javelin_hit_ground": {
+	"subtitle": "subtitle.spartanweaponry.javelin_hit_ground",
+	"sounds": [ 
+		{
+			"name": "minecraft:item/trident/ground_impact1",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact2",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact3",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact4",
+			"volume": 0.9
+		}
+	]
+  },
+  "boomerang_throw": {
+	"subtitle": "subtitle.spartanweaponry.boomerang_throw",
+	"sounds": [
+		"minecraft:item/trident/throw1",
+		"minecraft:item/trident/throw2"
+	]
+  },
+  "boomerang_fly": {
+	"subtitle": "subtitle.spartanweaponry.boomerang_fly",
+	"sounds": [ "random/bow" ]
+  },
+  "boomerang_hit_mob": {
+	"subtitle": "subtitle.spartanweaponry.boomerang_hit_mob",
+	"sounds": [ 
+		"minecraft:item/trident/pierce1",
+		"minecraft:item/trident/pierce2",
+		"minecraft:item/trident/pierce3" 
+	]
+  },
+  "boomerang_bounce": {
+	"subtitle": "subtitle.spartanweaponry.boomerang_bounce",
+	"sounds": [
+		{
+			"name": "minecraft:entity/player/attack/weak1",
+			"volume": 0.7
+	    },
+		{
+			"name": "minecraft:entity/player/attack/weak2",
+			"volume": 0.7
+	    },
+		{
+			"name": "minecraft:entity/player/attack/weak3",
+			"volume": 0.7
+		},
+		{
+			"name": "minecraft:entity/player/attack/weak4",
+			"volume": 0.7
+		}
+	]
+  },
+  "boomerang_hit_ground": {
+	"subtitle": "subtitle.spartanweaponry.boomerang_hit_ground",
+	"sounds": [ 
+		{
+			"name": "minecraft:item/trident/ground_impact1",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact2",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact3",
+			"volume": 0.9
+		},
+		{
+			"name": "minecraft:item/trident/ground_impact4",
+			"volume": 0.9
+		}
+	]
+  }
+}

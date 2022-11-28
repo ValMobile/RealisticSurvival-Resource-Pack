@@ -1,0 +1,17 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+		"layer0": "minecraft:item/arrow"
+    },
+  	"overrides": [
+		{"predicate": {"custom_model_data":83650}, "model": "realisticsurvival:item/iceandfire/dragonbone_arrow"},
+		{"predicate": {"custom_model_data":83651}, "model": "realisticsurvival:item/iceandfire/sea_serpent_arrow"},
+		{"predicate": {"custom_model_data":83652}, "model": "realisticsurvival:item/spartanweaponry/wooden_arrow"},
+		{"predicate": {"custom_model_data":83653}, "model": "realisticsurvival:item/spartanweaponry/copper_arrow"},
+		{"predicate": {"custom_model_data":83654}, "model": "realisticsurvival:item/spartanweaponry/iron_arrow"},
+		{"predicate": {"custom_model_data":83655}, "model": "realisticsurvival:item/spartanweaponry/diamond_arrow"},
+		{"predicate": {"custom_model_data":83656}, "model": "realisticsurvival:item/spartanweaponry/explosive_arrow"},
+		{"predicate": {"custom_model_data":83657}, "model": "realisticsurvival:item/spartanweaponry/bolt"},
+		{"predicate": {"custom_model_data":83658}, "model": "realisticsurvival:item/spartanweaponry/diamond_bolt"}
+	]
+}

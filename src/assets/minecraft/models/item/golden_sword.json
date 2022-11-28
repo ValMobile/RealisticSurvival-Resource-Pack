@@ -1,0 +1,26 @@
+{"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/golden_sword"},"overrides":[
+
+	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/spartanweaponry/golden_rapier" },
+	{ "predicate": { "custom_model_data": 83651 }, "model": "realisticsurvival:item/spartanweaponry/golden_katana" },
+	{ "predicate": { "custom_model_data": 83652 }, "model": "realisticsurvival:item/spartanweaponry/golden_greatsword" },
+	{ "predicate": { "custom_model_data": 83653 }, "model": "realisticsurvival:item/spartanweaponry/golden_longsword" },
+	{ "predicate": { "custom_model_data": 83654 }, "model": "realisticsurvival:item/spartanweaponry/golden_spear" },
+	{ "predicate": { "custom_model_data": 83655 }, "model": "realisticsurvival:item/spartanweaponry/golden_saber" },
+	{ "predicate": { "custom_model_data": 83656 }, "model": "realisticsurvival:item/spartanweaponry/golden_boomerang" },
+	{ "predicate": { "custom_model_data": 83657 }, "model": "realisticsurvival:item/spartanweaponry/golden_dagger" },
+	{ "predicate": { "custom_model_data": 83658 }, "model": "realisticsurvival:item/spartanweaponry/golden_glaive" },
+	{ "predicate": { "custom_model_data": 83659 }, "model": "realisticsurvival:item/spartanweaponry/golden_halberd" },
+	{ "predicate": { "custom_model_data": 83660 }, "model": "realisticsurvival:item/spartanweaponry/golden_hammer" },
+	{ "predicate": { "custom_model_data": 83661 }, "model": "realisticsurvival:item/spartanweaponry/golden_javelin" },
+	{ "predicate": { "custom_model_data": 83662 }, "model": "realisticsurvival:item/spartanweaponry/golden_lance" },
+	{ "predicate": { "custom_model_data": 83663 }, "model": "realisticsurvival:item/spartanweaponry/golden_mace" },
+	{ "predicate": { "custom_model_data": 83664 }, "model": "realisticsurvival:item/spartanweaponry/golden_pike" },
+	{ "predicate": { "custom_model_data": 83665 }, "model": "realisticsurvival:item/spartanweaponry/golden_quarterstaff" },
+	{ "predicate": { "custom_model_data": 83666 }, "model": "realisticsurvival:item/spartanweaponry/golden_tomahawk" },
+	{ "predicate": { "custom_model_data": 83667 }, "model": "realisticsurvival:item/spartanweaponry/golden_throwing_knife" },
+	{ "predicate": { "custom_model_data": 83668 }, "model": "realisticsurvival:item/spartanweaponry/golden_warhammer" },
+	{ "predicate": { "custom_model_data": 83669 }, "model": "realisticsurvival:item/notreepunching/golden_knife" },
+	
+	{ "predicate": { "custom_model_data": 93650 }, "model": "realisticsurvival:item/notreepunching/golden_mattock" }
+
+]}

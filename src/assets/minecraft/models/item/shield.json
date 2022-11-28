@@ -1,0 +1,93 @@
+{
+    "parent": "minecraft:builtin/entity",
+    "textures": {
+        "particle": "minecraft:block/dark_oak_planks"
+    },
+    "display": {
+        "thirdperson_righthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, -4 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "thirdperson_lefthand": {
+            "rotation": [ 0, 90, 0 ],
+            "translation": [ 10, 6, 12 ],
+            "scale": [ 1, 1, 1 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ -10, 2, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 180, 5 ],
+            "translation": [ 10, 0, -10 ],
+            "scale": [ 1.25, 1.25, 1.25 ]
+        },
+        "gui": {
+            "rotation": [ 15, -25, -5 ],
+            "translation": [ 2, 3, 0 ],
+            "scale": [ 0.65, 0.65, 0.65 ]
+        },
+        "fixed": {
+            "rotation": [ 0, 180, 0 ],
+            "translation": [ -2, 4, -5],
+            "scale":[ 0.5, 0.5, 0.5]
+        },
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 4, 4, 2],
+            "scale":[ 0.25, 0.25, 0.25]
+        }
+    },
+    "overrides": [
+    {"predicate": {"blocking": 1},"model": "minecraft:item/shield_blocking"},
+	{"predicate":{"custom_model_data":83650},"model":"realisticsurvival:item/baubles/cobalt_shield"},
+	{"predicate":{"custom_model_data":83650,"blocking": 1},"model":"realisticsurvival:item/baubles/cobalt_shield_blocking"},
+	{"predicate":{"custom_model_data":83651},"model":"realisticsurvival:item/baubles/obsidian_shield"},
+	{"predicate":{"custom_model_data":83651,"blocking": 1},"model":"realisticsurvival:item/baubles/obsidian_shield_blocking"},
+	{"predicate":{"custom_model_data":83652},"model":"realisticsurvival:item/baubles/ankh_shield"},
+	{"predicate":{"custom_model_data":83652,"blocking": 1},"model":"realisticsurvival:item/baubles/ankh_shield_blocking"},
+	
+	{"predicate":{"custom_model_data":83653},"model":"realisticsurvival:item/spartanweaponry/shield_basic_wooden"},
+	{"predicate":{"custom_model_data":83653,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_wooden_blocking"},
+	{"predicate":{"custom_model_data":83654},"model":"realisticsurvival:item/spartanweaponry/shield_tower_wooden"},
+	{"predicate":{"custom_model_data":83654,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_wooden_blocking"},
+	
+	{"predicate":{"custom_model_data":83655},"model":"realisticsurvival:item/spartanweaponry/shield_basic_stone"},
+	{"predicate":{"custom_model_data":83655,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_stone_blocking"},
+	{"predicate":{"custom_model_data":83656},"model":"realisticsurvival:item/spartanweaponry/shield_tower_stone"},
+	{"predicate":{"custom_model_data":83656,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_stone_blocking"},
+	
+	{"predicate":{"custom_model_data":83657},"model":"realisticsurvival:item/spartanweaponry/shield_basic_copper"},
+	{"predicate":{"custom_model_data":83657,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_copper_blocking"},
+	{"predicate":{"custom_model_data":83658},"model":"realisticsurvival:item/spartanweaponry/shield_tower_copper"},
+	{"predicate":{"custom_model_data":83658,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_copper_blocking"},
+	
+	{"predicate":{"custom_model_data":83659},"model":"realisticsurvival:item/spartanweaponry/shield_basic_golden"},
+	{"predicate":{"custom_model_data":83659,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_golden_blocking"},
+	{"predicate":{"custom_model_data":83660},"model":"realisticsurvival:item/spartanweaponry/shield_tower_golden"},
+	{"predicate":{"custom_model_data":83660,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_golden_blocking"},
+	
+	{"predicate":{"custom_model_data":83661},"model":"realisticsurvival:item/spartanweaponry/shield_basic_iron"},
+	{"predicate":{"custom_model_data":83661,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_iron_blocking"},
+	{"predicate":{"custom_model_data":83662},"model":"realisticsurvival:item/spartanweaponry/shield_tower_iron"},
+	{"predicate":{"custom_model_data":83662,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_iron_blocking"},
+	
+	{"predicate":{"custom_model_data":83663},"model":"realisticsurvival:item/spartanweaponry/shield_basic_diamond"},
+	{"predicate":{"custom_model_data":83663,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_diamond_blocking"},
+	{"predicate":{"custom_model_data":83664},"model":"realisticsurvival:item/spartanweaponry/shield_tower_diamond"},
+	{"predicate":{"custom_model_data":83664,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_diamond_blocking"},
+	
+	{"predicate":{"custom_model_data":83665},"model":"realisticsurvival:item/spartanweaponry/shield_basic_obsidian"},
+	{"predicate":{"custom_model_data":83665,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_obsidian_blocking"},
+	{"predicate":{"custom_model_data":83666},"model":"realisticsurvival:item/spartanweaponry/shield_tower_obsidian"},
+	{"predicate":{"custom_model_data":83666,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_obsidian_blocking"},
+	
+	{"predicate":{"custom_model_data":83667},"model":"realisticsurvival:item/spartanweaponry/shield_basic_netherite"},
+	{"predicate":{"custom_model_data":83667,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_basic_netherite_blocking"},
+	{"predicate":{"custom_model_data":83668},"model":"realisticsurvival:item/spartanweaponry/shield_tower_netherite"},
+	{"predicate":{"custom_model_data":83668,"blocking": 1},"model":"realisticsurvival:item/spartanweaponry/shield_tower_netherite_blocking"}
+	
+    ]
+}

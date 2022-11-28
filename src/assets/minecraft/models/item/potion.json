@@ -1,0 +1,25 @@
+{
+	"parent":"minecraft:item/generated",
+	"textures": {
+		"layer0":"minecraft:item/potion_overlay",
+		"layer1":"minecraft:item/potion"
+	},
+	"overrides":[
+
+		{"predicate":{"custom_model_data":83650},"model":"realisticsurvival:item/baubles/recall_potion"},
+		{"predicate":{"custom_model_data":83651},"model":"realisticsurvival:item/baubles/wormhole_potion"},
+		{"predicate":{"custom_model_data":83652},"model":"realisticsurvival:item/toughasnails/juice_apple"},
+		{"predicate":{"custom_model_data":83653},"model":"realisticsurvival:item/toughasnails/juice_beetroot"},
+		{"predicate":{"custom_model_data":83654},"model":"realisticsurvival:item/toughasnails/juice_cactus"},
+		{"predicate":{"custom_model_data":83655},"model":"realisticsurvival:item/toughasnails/juice_carrot"},
+		{"predicate":{"custom_model_data":83656},"model":"realisticsurvival:item/toughasnails/juice_chorus_fruit"},
+		{"predicate":{"custom_model_data":83657},"model":"realisticsurvival:item/toughasnails/juice_melon_glistering"},
+		{"predicate":{"custom_model_data":83658},"model":"realisticsurvival:item/toughasnails/juice_apple_golden"},
+		{"predicate":{"custom_model_data":83659},"model":"realisticsurvival:item/toughasnails/juice_carrot_golden"},
+		{"predicate":{"custom_model_data":83660},"model":"realisticsurvival:item/toughasnails/juice_melon"},
+		{"predicate":{"custom_model_data":83661},"model":"realisticsurvival:item/toughasnails/juice_pumpkin"},
+		{"predicate":{"custom_model_data":83662},"model":"realisticsurvival:item/toughasnails/purified_water_bottle"},
+		{"predicate":{"custom_model_data":83663},"model":"realisticsurvival:item/toughasnails/canteen_filled"}
+	]
+
+}

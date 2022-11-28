@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_shovel"
+    },
+    "overrides":
+	[
+
+	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/iceandfire/dragonsteel_fire_shovel" },
+	{ "predicate": { "custom_model_data": 83651 }, "model": "realisticsurvival:item/iceandfire/dragonsteel_ice_shovel" },
+	{ "predicate": { "custom_model_data": 83652 }, "model": "realisticsurvival:item/iceandfire/dragonsteel_lightning_shovel" },
+	
+	{ "predicate": { "custom_model_data": 93650 }, "model": "realisticsurvival:item/notreepunching/netherite_mattock" }
+
+        ]
+}

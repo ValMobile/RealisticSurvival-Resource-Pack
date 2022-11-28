@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/diamond_hoe"
+  },
+    "overrides": [
+	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/iceandfire/dragonbone_hoe" },
+	
+	{ "predicate": { "custom_model_data": 93650 }, "model": "realisticsurvival:item/notreepunching/diamond_mattock" }
+
+  ]
+}

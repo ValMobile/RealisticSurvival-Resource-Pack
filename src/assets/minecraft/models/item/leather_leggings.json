@@ -1,0 +1,7 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/leather_leggings","layer1":"minecraft:item/leather_leggings_overlay"},"overrides":[
+	
+		{ "predicate": { "custom_model_data": 83650}, "model": "realisticsurvival:item/toughasnails/leggings_wool"},
+		{ "predicate": { "custom_model_data": 83651}, "model": "realisticsurvival:item/toughasnails/leggings_jelled_slime"}
+
+	]
+}

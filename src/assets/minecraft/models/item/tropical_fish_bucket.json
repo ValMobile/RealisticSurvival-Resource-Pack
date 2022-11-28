@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/tropical_fish_bucket"
+  },
+  "overrides": [
+
+    	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/notreepunching/ceramic_tropical_fish_bucket" }
+
+  ]
+}

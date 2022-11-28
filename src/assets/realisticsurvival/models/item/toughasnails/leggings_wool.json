@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "realisticsurvival:item/toughasnails/leggings_wool",
+	"layer1": "realisticsurvival:item/toughasnails/leggings_wool"
+  }
+}

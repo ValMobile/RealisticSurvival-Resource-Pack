@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/wooden_axe"
+  },
+    "overrides": [
+	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/notreepunching/flint_axe" },
+    { "predicate": { "custom_model_data": 83651 }, "model": "realisticsurvival:item/spartanweaponry/wooden_battleaxe" },
+	{ "predicate": { "custom_model_data": 83652 }, "model": "realisticsurvival:item/notreepunching/fire_starter" },
+	{ "predicate": { "custom_model_data": 83653 }, "model": "realisticsurvival:item/notreepunching/clay_tool" }
+  ]
+}

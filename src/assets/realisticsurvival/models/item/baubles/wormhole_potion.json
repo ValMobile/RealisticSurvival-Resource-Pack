@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "realisticsurvival:item/baubles/wormhole_potion",
+	"layer1": "realisticsurvival:item/baubles/wormhole_potion"
+  }
+}

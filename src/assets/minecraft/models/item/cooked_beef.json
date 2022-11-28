@@ -1,0 +1,7 @@
+{"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_beef"},"overrides":[
+
+{"predicate":{"custom_model_data":83650},"model":"realisticsurvival:item/iceandfire/dragon_flesh_fire"},
+{"predicate":{"custom_model_data":83651},"model":"realisticsurvival:item/iceandfire/dragon_flesh_ice"},
+{"predicate":{"custom_model_data":83652},"model":"realisticsurvival:item/iceandfire/dragon_flesh_lightning"}
+
+]}

@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_pickaxe"
+  },
+  "overrides": [
+
+    	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/notreepunching/copper_pickaxe" },
+		{ "predicate": { "custom_model_data": 93650 }, "model": "realisticsurvival:item/notreepunching/copper_mattock" }
+
+    ]
+}

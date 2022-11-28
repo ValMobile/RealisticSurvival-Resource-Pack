@@ -1,0 +1,21 @@
+{
+    "parent": "minecraft:item/handheld",
+    "textures": {
+        "layer0": "minecraft:item/netherite_axe"
+    },
+    "overrides":
+	[
+
+	{ "predicate": { "custom_model_data": 83650 }, "model": "realisticsurvival:item/iceandfire/dragonsteel_fire_axe" },
+	{ "predicate": { "custom_model_data": 83651 }, "model": "realisticsurvival:item/iceandfire/dragonsteel_ice_axe" },
+	{ "predicate": { "custom_model_data": 83652 }, "model": "realisticsurvival:item/iceandfire/dragonsteel_lightning_axe" },
+	{ "predicate": { "custom_model_data": 83653 }, "model": "realisticsurvival:item/spartanandfire/dragonsteel_fire_battleaxe" },
+	{ "predicate": { "custom_model_data": 83654 }, "model": "realisticsurvival:item/spartanandfire/dragonsteel_ice_battleaxe" },
+	{ "predicate": { "custom_model_data": 83655 }, "model": "realisticsurvival:item/spartanandfire/dragonsteel_lightning_battleaxe" },
+	{ "predicate": { "custom_model_data": 83656 }, "model": "realisticsurvival:item/spartanweaponry/netherite_battleaxe" },
+	{ "predicate": { "custom_model_data": 83657 }, "model": "realisticsurvival:item/notreepunching/netherite_saw" },
+	
+	{ "predicate": { "custom_model_data": 93650 }, "model": "realisticsurvival:item/notreepunching/netherite_mattock" }
+
+        ]
+}
